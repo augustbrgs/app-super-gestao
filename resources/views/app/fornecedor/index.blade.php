@@ -28,5 +28,4 @@ if(){
     @empty
         Não existem fornecedores
     @endforelse
-
 @endisset

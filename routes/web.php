@@ -31,7 +31,6 @@ Route::controller(TesteController::class)->group(function(){
 
 
 
-
 //redirect direto
 //Route::redirect('/rota2', '/rota1');
 /*
